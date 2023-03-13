@@ -1,5 +1,15 @@
 #!/usr/bin/env bash
 
+# Sample invocation
+#./parse_tabs.sh
+## Pop ID        cae     can     mos     ulm
+#apo_R236-14     10      19      46      30
+#apo_R394-18     13      25      58      16
+#apo_R5-21       25      27      37      58
+#apo_R74-19      9       8       18      21
+#apo_R92-19      29      28      30      44
+
+
 tab1=tab1.tsv
 tab2=tab2.tsv
 
